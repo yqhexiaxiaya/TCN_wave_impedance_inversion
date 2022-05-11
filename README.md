@@ -1,6 +1,7 @@
 # TCN_wave_impedance_inversion
 TCN网络反演波阻抗(一维卷积)_pytorch_地震勘探_Marmousi2
 ## 1. 使用必备
+### 本代码使用pytorch用户
 ### 请自行安装python库
 ## 2.说明
 1.本代码核心TCN来源于[github开源资源](https://github.com/locuslab/TCN)
